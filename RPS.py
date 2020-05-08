@@ -41,4 +41,4 @@ if winreeks > 2:
 	print('you won!')
 	exit()
 #dit moet nog gefixt worden
-#@tereboooooo
+#@tereboooooo helupp
